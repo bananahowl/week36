@@ -1,3 +1,5 @@
+// start of work to JavaSrcipt functions
+//part 1,2 and 3 all in one pile
 function add(n1, n2){return n1+n2;}
 function sub(n1,n2){return n1 -n2;}
 
@@ -53,7 +55,7 @@ function div(n1,n2){
 
 }
 console.log(cb(5,25,div));
-
+// to work 3
 var arry =["Lars", "Mogens", "Sam", "Lisa", "Samuel","Bo"];
 
 var sortd = arry.filter(n=> n.length <=3);
@@ -94,7 +96,7 @@ function setCars( postion ){
 
 console.log(setCars(0));
 
-//Asynchronous Callbacks
+//Asynchronous Callbacks PART
 //opg 1
 /* this is assumed output for the function
 1- "aaaaaaaaaa"
