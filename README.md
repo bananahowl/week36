@@ -13,7 +13,8 @@ work more efficient.
 - 03-09
   - Same story as the other project for yesterday, as there is needed a <br>
   repository for travis to work and being able to get through the files.<br>
-  [link here](<https://github.com/bananahowl/0209work>)
+  [link here](<https://github.com/bananahowl/0209work>) <br> 
+  travis might say there is errors but that is realted to the server.
 - 04-09
   - The folder with code for the JavaScript part
     - Link to the [ JavaScript part](<https://github.com/bananahowl/week36/tree/master/04-09>)
